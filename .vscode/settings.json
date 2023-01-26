@@ -1,3 +1,4 @@
 {
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "python.pythonPath": "C:\\Users\\Marta\\anaconda3\\python.exe"
 }
